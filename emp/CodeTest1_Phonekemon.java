@@ -1,7 +1,6 @@
 package emp;
 
 import java.util.HashSet;
-import java.util.Iterator;
 
 public class CodeTest1_Phonekemon {
 
